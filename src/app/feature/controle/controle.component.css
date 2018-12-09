@@ -1,0 +1,25 @@
+#direta {
+    position: absolute;
+    left: 80px;
+    top: 50px;
+}
+#esquerda {
+    position: absolute;
+    top: 50px;
+}
+#cima{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+#baixo{
+    position: absolute;
+    top: 70px;
+    left: 50px;
+}
+
+#zerar {
+    position: absolute;
+    top: 200px;
+    left: 35px;
+}
